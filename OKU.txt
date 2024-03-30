@@ -1,0 +1,5 @@
+Herkese selam. Bu imaj yusufklncc tarafından techolay.net için hackintosh kurulumu amacıyla hazırlanmış bir imajdır.
+
+Bu belgenin olduğu dizine kendi EFI yapılandırmanızı atamanız gerekiyor. Dortania rehberinden yararlanabilirsiniz.
+
+Güncel EFI'me ve yönergelere techolay Sosyal üzerindeki imaj konusundan ulaşabilirsiniz.
